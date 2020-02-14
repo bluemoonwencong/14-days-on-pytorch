@@ -3,7 +3,7 @@
 
 datawhale的一个学习活动
 
-打卡1：  ![note](note1.jpg)
+打卡1：  !(note)[note1.jpg]
 
 
 
